@@ -4,5 +4,14 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: #00b7ff;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: grid;
+  grid-template-columns: 100px 200px 500px;
 }
